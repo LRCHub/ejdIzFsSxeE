@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Result",
+  "base_artist": "Nami Tamaki",
+  "createdAt": "2025-12-31T11:38:50.013992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Candy Truck / You Expected: LAB Your Result: Green",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/01_Candy_Truck___You_Expected__LAB_Your_Result__Green_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Candy Truck \u0000 You Expected: LAB Your Result: Green",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/02_Candy_Truck_\u0000_You_Expected__LAB_Your_Result__Green_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Candy Truck / You Expected: LAB Your Result: Green",
+      "artist": "Bring Me The Horizon",
+      "has_synced": false,
+      "path": "select/03_Candy_Truck___You_Expected__LAB_Your_Result__Green_Bring_Me_The_Horizon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "End Result",
+      "artist": "Crass",
+      "has_synced": false,
+      "path": "select/04_End_Result_Crass.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Different Cat, Same Result",
+      "artist": "Spraynard",
+      "has_synced": false,
+      "path": "select/05_Different_Cat,_Same_Result_Spraynard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Result",
+      "artist": "Nami Tamaki",
+      "has_synced": false,
+      "path": "select/06_Result_Nami_Tamaki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Result",
+      "artist": "Nami Tamaki",
+      "has_synced": false,
+      "path": "select/07_Result_Nami_Tamaki.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Capgras Encounters a Secondhand Vanity: Tulpamancer's Prosopagnosia / Pareidolia (As Direct Result of Trauma to Fusiform Gyrus)",
+      "artist": "Will Wood and the Tapeworms",
+      "has_synced": true,
+      "path": "select/08_Mr._Capgras_Encounters_a_Secondhand_Vanity__Tulpamancer's_Prosopagnosia___Pareid_Will_Wood_and_the_Tapeworms.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Capgras Encounters a Secondhand Vanity: Tulpamancer's Prosopagnosia/Pareidolia (As Direct Result of Trauma to the Fusiform Gyrus)",
+      "artist": "Will Wood and the Tapeworms",
+      "has_synced": true,
+      "path": "select/09_Mr._Capgras_Encounters_a_Secondhand_Vanity__Tulpamancer's_Prosopagnosia_Pareidol_Will_Wood_and_the_Tapeworms.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Result",
+      "artist": "玉置 成実",
+      "has_synced": false,
+      "path": "select/pl_01_Result_玉置_成実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Result",
+      "artist": "玉置 成実",
+      "has_synced": false,
+      "path": "select/pl_02_Result_玉置_成実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Result",
+      "artist": "玉置 成実",
+      "has_synced": false,
+      "path": "select/pl_03_Result_玉置_成実.txt"
+    }
+  ]
+}
